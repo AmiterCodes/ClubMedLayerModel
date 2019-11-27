@@ -1,0 +1,12 @@
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\Clubmed.exe.config
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\Clubmed.exe
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\Clubmed.pdb
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\ClubMedBL.dll
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\ClubMedDAL.dll
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\ClubMedBL.pdb
+C:\Users\amitn\Downloads\Clubmed\Clubmed\bin\Debug\ClubMedDAL.pdb
+C:\Users\amitn\Downloads\Clubmed\Clubmed\obj\Debug\ClubMedUI.csprojAssemblyReference.cache
+C:\Users\amitn\Downloads\Clubmed\Clubmed\obj\Debug\ClubMedUI.csproj.CoreCompileInputs.cache
+C:\Users\amitn\Downloads\Clubmed\Clubmed\obj\Debug\ClubMedUI.csproj.CopyComplete
+C:\Users\amitn\Downloads\Clubmed\Clubmed\obj\Debug\Clubmed.exe
+C:\Users\amitn\Downloads\Clubmed\Clubmed\obj\Debug\Clubmed.pdb

@@ -1,0 +1,6 @@
+C:\Users\amitn\Downloads\Clubmed\ClubMedDAL\bin\Debug\ClubMedDAL.dll
+C:\Users\amitn\Downloads\Clubmed\ClubMedDAL\bin\Debug\ClubMedDAL.pdb
+C:\Users\amitn\Downloads\Clubmed\ClubMedDAL\obj\Debug\ClubMedDAL.csprojAssemblyReference.cache
+C:\Users\amitn\Downloads\Clubmed\ClubMedDAL\obj\Debug\ClubMedDAL.csproj.CoreCompileInputs.cache
+C:\Users\amitn\Downloads\Clubmed\ClubMedDAL\obj\Debug\ClubMedDAL.dll
+C:\Users\amitn\Downloads\Clubmed\ClubMedDAL\obj\Debug\ClubMedDAL.pdb
